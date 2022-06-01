@@ -20,6 +20,5 @@ myOtherBox.addEventListener('mouseleave', function(){
 	rotationSpeed = 0.001;
 	console.log('left');
 });
-});
 	
 
